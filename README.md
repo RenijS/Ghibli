@@ -1,5 +1,5 @@
 # Ghibli
-Simple website 
+Simple responsive website 
 
 <img width="937" alt="g1" src="https://user-images.githubusercontent.com/69236889/147465866-3aa41010-4c5c-4b96-9649-62c60c3f5a74.png">
 
